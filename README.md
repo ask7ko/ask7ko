@@ -1,7 +1,7 @@
 ## Tech Stack
 - Programming languages: Java, NodeJs, Go, PHP, Python.
 - Databases: PostgreSQL, MySQL, MongoDB, Redis, Oracle.
-- Working with APIs: RESTful API, GraphQL, microservice architecture.
+- Working with APIs: RESTful API, GraphQL, SOAP, microservice architecture.
 - Development tools: Docker, Kubernetes, Git, Makefile, CI/CD (GitLab, GitHub Actions, Jenkins).
 - Cloud platforms: AWS, Google Cloud Platform (GCP), or Oracle Cloud Infrastructure (OCI).
 - Methodologies: Agile, Scrum, Kanban.
